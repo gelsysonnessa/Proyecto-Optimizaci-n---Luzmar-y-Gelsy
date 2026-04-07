@@ -9,7 +9,6 @@ Original file is located at
 
 # =============================================================================
 # GEMELO DIGITAL – GASODUCTO TRANS-ANDINO
-# VERSIÓN CORREGIDA (presiones físicamente consistentes)
 # =============================================================================
 
 import streamlit as st
